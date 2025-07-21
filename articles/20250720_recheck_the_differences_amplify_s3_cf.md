@@ -3,7 +3,7 @@ title: "改めて確認する AWS Amplify Hosting と Amazon S3 + Amazon CloudFr
 emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "Amplify", "S3", "CloudFront", "Hosting"]
-published: false
+published: true
 ---
 
 > この記事は下記の記事の日本語訳です。
