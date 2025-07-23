@@ -120,8 +120,6 @@ AWS Amplify Hosting は、 GitHub との連携で自動的なデプロイのワ�
 
 ## まとめ
 
-WORK IN PROGRESS
-
 AWS Amplify Hosting は、従来の Amazon S3 + Amazon CloudFront の組み合わせと比較して、セットアップの簡素化、自動化されたデプロイプロセス、統合された運用管理により、開発者の生産性を大幅に向上させます。一方、Amazon S3 + Amazon CloudFront は高度なカスタマイズが可能で、複雑な要件に対応できます。プロジェクトの要件と開発チームの状況に応じて、最適な選択肢を選ぶことが重要です。
 
 ## 参考: 運用フローの想定
